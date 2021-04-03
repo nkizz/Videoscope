@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "RCJ-041")(type "KiCad")(uri "C:/Users/nkizz/Downloads/RCJ-041")(options "")(descr ""))
+  (lib (name "PJRAN3X1U03X")(type "KiCad")(uri "C:/Users/nkizz/Downloads/PJRAN3X1U03X")(options "")(descr ""))
+  (lib (name "NTSCope-backups")(type "KiCad")(uri "${KIPRJMOD}")(options "")(descr ""))
+)
